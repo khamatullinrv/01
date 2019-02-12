@@ -2,3 +2,4 @@ print("Hello, WORLD");
 print("Hello, бяе ");
 print("Hello, EVERYBODY");
 Update
+print ("Hello my dear friend");
